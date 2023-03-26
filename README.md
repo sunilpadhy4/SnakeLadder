@@ -9,8 +9,7 @@ Open the project in your preferred IDE (Eclipse, IntelliJ, etc.).
 Run the Main.java file.
 How to Play the Game
 Select the number of players (2) and click "Start Game".
-Roll the dice by clicking on it.
-Move your token according to the number on the dice.
+Click on player as to roll the dice.
 If you land on a ladder, you'll climb to the top of it.
 If you land on a snake, you'll slide down to the bottom of it.
 The first player to reach the end wins!
